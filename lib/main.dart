@@ -60,6 +60,26 @@ class MyApp extends StatelessWidget {
                           ),
                           const SizedBox(height: 4),
                           Text(generateNonce(min(30, Random().nextInt(100)))),
+                          Row(
+                            children: [
+                              IconButton(
+                                onPressed: () {},
+                                icon: const Icon(Icons.chat_bubble_outline),
+                              ),
+                              IconButton(
+                                onPressed: () {},
+                                icon: const Icon(Icons.repeat),
+                              ),
+                              IconButton(
+                                onPressed: () {},
+                                icon: const Icon(Icons.favorite_border),
+                              ),
+                              IconButton(
+                                onPressed: () {},
+                                icon: const Icon(Icons.ios_share),
+                              )
+                            ],
+                          ),
                         ],
                       ),
                     ],
