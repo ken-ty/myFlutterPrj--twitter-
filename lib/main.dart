@@ -43,7 +43,10 @@ class MyApp extends StatelessWidget {
                   child: Row(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
-                      const CircleAvatar(),
+                      const CircleAvatar(
+                        backgroundImage: NetworkImage(
+                            'https://api.lorem.space/image/game?w=100&h=100'),
+                      ),
                       const SizedBox(width: 8),
                       Column(
                         crossAxisAlignment: CrossAxisAlignment.start,
