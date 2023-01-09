@@ -55,7 +55,10 @@ class MyApp extends StatelessWidget {
                             children: const [
                               Text('ken-ty@Flutter大学'),
                               SizedBox(width: 8),
-                              Text('2022/05/05'),
+                              Text(
+                                '2022/05/05',
+                                style: TextStyle(color: Colors.black54),
+                              ),
                             ],
                           ),
                           const SizedBox(height: 4),
