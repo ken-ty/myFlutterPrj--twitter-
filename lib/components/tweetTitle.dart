@@ -33,7 +33,7 @@ class TweetTitle extends StatelessWidget {
                 ],
               ),
               const SizedBox(height: 4),
-              Text(generateNonce(min(30, Random().nextInt(100)))),
+              Flexible(child: Text(generateNonce(1000))),
               Row(
                 children: [
                   IconButton(
