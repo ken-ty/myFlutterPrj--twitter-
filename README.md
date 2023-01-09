@@ -1,4 +1,7 @@
-# my_app
+# myFlutterPrj--twitter-
+
+リポジトリ作成でミスった. 名前最後にハイフンついてるので注意.
+学習用適当リポジトリだからこのまま突き進む!!! 🚗 =3
 
 A new Flutter project.
 
@@ -14,4 +17,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# myFlutterPrj--twitter-
