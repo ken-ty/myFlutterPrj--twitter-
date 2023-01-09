@@ -13,7 +13,7 @@ String generateNonce([int length = 32]) {
 
 void main() {
   runApp(
-    MyApp(),
+    const MyApp(),
   );
 }
 
@@ -43,8 +43,8 @@ class MyApp extends StatelessWidget {
                   child: Row(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
-                      CircleAvatar(),
-                      SizedBox(width: 8),
+                      const CircleAvatar(),
+                      const SizedBox(width: 8),
                       Column(
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
@@ -67,7 +67,7 @@ class MyApp extends StatelessWidget {
           ),
         ),
         floatingActionButton:
-            ElevatedButton(onPressed: () {}, child: Text('いいね!👍')),
+            ElevatedButton(onPressed: () {}, child: const Text('いいね!👍')),
       ),
     );
   }
