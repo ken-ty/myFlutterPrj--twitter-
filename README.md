@@ -5,6 +5,14 @@
 
 A new Flutter project.
 
+## 成果物
+
+<table style="width=60%;min-width=320px;max-width=100%;">
+    <td>
+        <img src="https://gyazo.com/b1c6c3fec4861f588a6f9e80fafa3b07/raw">
+    </td>
+</table>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
