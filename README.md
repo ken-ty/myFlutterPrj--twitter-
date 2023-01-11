@@ -1,11 +1,6 @@
 # myFlutterPrj--twitter-
 
-リポジトリ作成でミスった. 名前最後にハイフンついてるので注意.
-学習用適当リポジトリだからこのまま突き進む!!! 🚗 =3
-
-A new Flutter project.
-
-## 成果物
+FlutterでTwitterのUIをトレースする.
 
 <table style="width=60%;min-width=320px;max-width=100%;">
     <td>
@@ -15,13 +10,12 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+前提: Flutter の開発環境構築ができていること
 
-A few resources to get you started if this is your first Flutter project:
+F5で実行すれば特に何もしなくて動作する
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 補足
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+リポジトリ名の最後にハイフンついてるので注意.
+リポジトリ作成でミスった. 
+学習用適当リポジトリだからこのまま突き進みます!!! 🚗 =3
